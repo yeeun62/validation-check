@@ -1,4 +1,3 @@
-// 동영상 강의에 나온 코드를 그대로 실습하세요
 let elInputUsername = document.querySelector('#username');
 
 let elFailuerMessage = document.querySelector('.failure-message');
